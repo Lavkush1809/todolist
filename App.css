@@ -1,0 +1,59 @@
+.todo-container {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 10px;
+  
+}
+
+form {
+  display: flex;
+  margin-bottom: 20px;
+  border: #c45e8c;
+}
+
+.bigred {
+  color: #c45e8c;
+  padding: 40px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: left;
+  background-color: #FDF5DF;
+}
+input[type="text"] {
+  flex: 1;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-right: 10px;
+}
+
+button[type="submit"] {
+  padding: 10px 20px;
+  background-color: #1934cd;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+button {
+  margin-left: auto;
+  background-color: #1450d2;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+}
+body{
+  background-image: url(https://png.pngtree.com/png-clipart/20210128/ourmid/pngtree-technology-blue-gradient-wave-dot-shading-png-image_2835244.jpg);
+}
+
